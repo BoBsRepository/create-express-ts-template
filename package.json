@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This is a CLI Starter For Express Js Backend With Typescript.",
   "main": "index.js",
+  "bin": "./bin/cli.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
