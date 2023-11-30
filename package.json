@@ -1,0 +1,19 @@
+{
+  "name": "create-expresss-ts",
+  "version": "1.0.0",
+  "description": "This is a CLI Starter For Express Js Backend With Typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Puskar-Roy/create-expresss-ts.git"
+  },
+  "author": "Puskar Roy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Puskar-Roy/create-expresss-ts/issues"
+  },
+  "homepage": "https://github.com/Puskar-Roy/create-expresss-ts#readme"
+}
