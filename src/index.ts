@@ -10,3 +10,5 @@ app.use('/api/auth', authRoutes);
 app.listen(process.env.PORT, () => {
   console.log(`Server Is Running on Port ${process.env.PORT}`);
 });
+
+export default app;
