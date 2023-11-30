@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+
 /* eslint-disable prettier/prettier */
 /* eslint-disable no-undef */
 
