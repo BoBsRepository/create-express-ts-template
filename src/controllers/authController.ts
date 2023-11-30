@@ -1,5 +1,6 @@
 import { Request, Response } from 'express';
+import asyncHandler from '../util/catchAsync';
 
-export const testRoute = async (req: Request, res: Response) => {
+export const testRoute = asyncHandler(async (req: Request, res: Response) => {
   res.json({ success: true });
-};
+});
