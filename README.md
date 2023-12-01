@@ -9,7 +9,7 @@
   <h3 align="center">Express Js with Typescript</h3>
 
   <p align="center">
-    An awesome CLI starter template to jumpstart your Express Js (Typescript) projects!
+    An awesome CLI starter template to jumpstart your Express.js (TypeScript) projects, helping you to speed up the process of building RESTful APIs.
     <br />
     <a href="https://github.com/Puskar-Roy/create-expresss-ts.git"><strong>Explore the docs »</strong></a>
     <br />
