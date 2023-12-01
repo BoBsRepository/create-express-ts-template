@@ -69,8 +69,6 @@ Here's why:
   - 🔄 Live reload for efficient development
   - 🛠 Optimized code for production
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+Of course,This template may not cover all project needs, as your requirements may vary. More updates will be added in the future. Feel free to suggest changes by forking this repo, creating a pull request, or opening an issue. Thanks to all contributors who have helped enhance this template!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
