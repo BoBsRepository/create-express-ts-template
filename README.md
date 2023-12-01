@@ -16,8 +16,8 @@
     <br />
     <a href="https://create-expresss-ts.vercel.app/api/auth">View Demo</a>
     ·
-    <a href="https://github.com/Puskar-Roy/create-expresss-ts.git/issues">Report Bug</a>
+    <a href="https://github.com/Puskar-Roy/create-expresss-ts/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Puskar-Roy/create-expresss-ts.git/issues">Request Feature</a>
+    <a href="https://github.com/Puskar-Roy/create-expresss-ts/issues">Request Feature</a>
   </p>
 </div>
