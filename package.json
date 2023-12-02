@@ -1,8 +1,7 @@
 {
-  "name": "create-expresss-ts",
-  "version": "1.0.5",
-  "description": "This is a CLI Starter For Express Js Backend With Typescript.",
-  "bin": "./bin/cli.js",
+  "name": "create-express-ts-template",
+  "version": "1.0.0",
+  "description": "This is a Starter For Express Js Backend With Typescript.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
