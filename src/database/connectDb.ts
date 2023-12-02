@@ -1,7 +1,8 @@
 import mongoose from 'mongoose';
+import config from '../config/config';
 
 mongoose
-  .connect(process.env.MONGOURI)
+  .connect(config.MONGOURI)
   .then(() => {
     console.log(`[📥] MongoDB Connected!`);
   })

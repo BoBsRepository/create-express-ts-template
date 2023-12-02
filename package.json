@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Puskar-Roy/create-expresss-ts.git"
+    "url": "https://github.com/BoBsRepository/create-express-ts-template"
   },
   "author": "Puskar Roy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Puskar-Roy/create-expresss-ts/issues"
+    "url": "https://github.com/BoBsRepository/create-express-ts-template/issues"
   },
-  "homepage": "https://github.com/Puskar-Roy/create-expresss-ts#readme",
+  "homepage": "https://github.com/BoBsRepository/create-express-ts-template#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colorette": "^2.0.20",
@@ -28,10 +28,14 @@
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-rate-limit": "^7.1.5",
     "helmet": "^7.1.0",
+    "hpp": "^0.2.3",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.0.2",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "xss-clean": "^0.1.4"
   },
   "devDependencies": {
     "@types/bcryptjs": "^2.4.6",
