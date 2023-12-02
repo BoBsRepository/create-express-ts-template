@@ -9,6 +9,10 @@ const app: Express = express();
 app.use(express.json());
 app.use('/api/auth', authRoutes);
 
+app.get('/', (req: Request, res: Response) => {
+  res.json({ success: true, message: 'API IS WORKING 🥳' });
+});
+
 app.all('*', (req: Request, res: Response, next: NextFunction) => {
   next(new CheckError(`Can't find ${req.originalUrl} on this server!`, 404));
 });
