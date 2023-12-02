@@ -69,6 +69,14 @@ Here's why:
   - 🔄 Live reload for efficient development
   - 🛠 Optimized code for production
 
+- **Security Measures Added:**
+  - 🔐 Helmet for setting up security headers
+  - 🔒 XSS protection with xss-clean middleware
+  - 🚧 HTTP Parameter Pollution (HPP) protection
+  - 🧼 MongoDB data sanitization with express-mongo-sanitize
+  - 🚦 Rate limiting with express-rate-limit for protection against brute-force attacks
+  - 🌐 CORS (Cross-Origin Resource Sharing) configured to allow requests only from a specific origin  
+
 Of course, This template may not cover all project needs, as your requirements may vary. More updates will be added in the future. Feel free to suggest changes by forking this repo, creating a pull request, or opening an issue. Thanks to all contributors who have helped enhance this template!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
