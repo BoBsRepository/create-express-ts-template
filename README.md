@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/BoBsRepository/create-express-ts-template">
     <img src="https://repository-images.githubusercontent.com/162537377/9c807700-9828-11ea-8a3b-47411956130e" alt="Logo" width="200" height="100">
   </a>
 
